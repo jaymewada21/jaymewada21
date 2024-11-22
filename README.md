@@ -2,6 +2,6 @@
 - 👀 I’m interested in Cloud Computing, DevOps, and Linux. I’m also fascinated by finance and stock market trends.  
 - 🌱 I’m currently learning AWS, Kubernetes, Terraform, and CI/CD tools to transition into a DevOps role.  
 - 💞️ I’m looking to collaborate on open-source DevOps tools, automation projects, and infrastructure-as-code solutions.  
-- 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/jaybmewada/) or email me at [LinkedIn](
+- 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/jaybmewada/) or email me at [Gmail](mailto:jaymewada721+github@gmail.com)
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I can deep-dive into both coding challenges and financial data analysis—it’s all about problem-solving!  
